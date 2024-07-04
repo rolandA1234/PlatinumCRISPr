@@ -1,0 +1,5 @@
+Following dependencies need to be installed first:
+
+- RNAFold from the Vienna Package
+- bpRNA.pl from https://github.com/hendrixlab/bpRNA
+
